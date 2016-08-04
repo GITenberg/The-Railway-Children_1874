@@ -1,0 +1,48 @@
+_repo: The-Railway-Children_1874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Bland, Edith Nesbit
+    - Nesbit, Edith
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: "The Railway Children is a children's book by Edith Nesbit, originally\
+  \ serialised in The London Magazine during 1905 and first published in book form\
+  \ in 1906. It has been adapted for the screen several times, of which the 1970 film\
+  \ version is the best known. The Oxford Dictionary of National Biography credits\
+  \ Oswald Barron, who had a deep affection for Nesbit, with having provided the plot.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Fiction
+- Children's Literature
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1874'
+  wikidata: Q969970
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Country life -- England -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Railroads -- Fiction'
+- !lcsh 'Family life -- Fiction'
+- GITenberg
+title: The Railway Children
+url: http://www.gutenberg.org/ebooks/1874
+wikipedia:
+- https://fa.wikipedia.org/wiki/%D8%A8%DA%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A2%D9%87%D9%86
+- https://sh.wikipedia.org/wiki/The_Railway_Children
+- https://de.wikipedia.org/wiki/Die_Eisenbahnkinder
+- https://en.wikipedia.org/wiki/The_Railway_Children
+- https://es.wikipedia.org/wiki/The_Railway_Children
