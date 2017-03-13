@@ -1,5 +1,8 @@
 _repo: The-Railway-Children_1874
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nesbit, E. (Edith)
@@ -17,6 +20,8 @@ description: "The Railway Children is a children's book by Edith Nesbit, origina
   \ version is the best known. The Oxford Dictionary of National Biography credits\
   \ Oswald Barron, who had a deep affection for Nesbit, with having provided the plot.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1874#The-Railway-Children
 gutenberg_bookshelf:
 - Children's Fiction
 - Children's Literature
